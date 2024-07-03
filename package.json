@@ -1,0 +1,26 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "Polishing work on React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkkshatNawani/react-project.git"
+  },
+  "keywords": [
+    "react",
+    "akkshat"
+  ],
+  "author": "Akkshat Nawani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkkshatNawani/react-project/issues"
+  },
+  "homepage": "https://github.com/AkkshatNawani/react-project#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
